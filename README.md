@@ -2,7 +2,7 @@
 
 ## Description
 
-This project uses Node, Inquirer, and MySQL to create an employee tracker CMS. Inside of the CMS you can add employees, roles, and departments to successfully manage all of your employees.
+This project uses Node, Inquirer, and MySQL to create an employee tracker CMS. Inside of the CMS you can add employees, roles, and departments to successfully manage all of your employees. To see the project in use, check out the [tutorial video.](https://drive.google.com/file/d/1hkRpHt0b3NG3TC3qlJjuETkA1S5clQOD/view?usp=sharing)
 
 <br>
 
